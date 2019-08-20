@@ -1,17 +1,17 @@
 {
   "IsEncrypted": false,
-  "Values": {
-    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
-    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
-    "computerVisionApiUrl": "",
-    "computerVisionApiKey": "",
-    "eventGridTopicEndpoint": "",
-    "eventGridTopicKey": "",
-    "cosmosDBEndPointUrl": "",
-    "cosmosDBAuthorizationKey": "",
-    "cosmosDBDatabaseId": "LicensePlates",
-    "cosmosDBCollectionId": "Processed",
-    "exportCsvContainerName": "export",
-    "blobStorageConnection": ""
-  }
+    "Values": {
+        "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=fntaz203tollboob8c8;AccountKey=uHP3+hCswVsUwXk1hvRv79oydzX6L0mRXWpj6wFhpY5MA3TOK0CI3DH9WVZ5ZCr+USfVixncOch4gqz8S6GfaQ==",
+        "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+        "computerVisionApiUrl": "https://vsnaz203tollboothinit.cognitiveservices.azure.com/vision/v2.0/ocr",
+        "computerVisionApiKey": "799a4099c89f49edac567cbfa34dfefc",
+        "eventGridTopicEndpoint": "https://evntgrdtollbooth.westeurope-1.eventgrid.azure.net/api/events",
+        "eventGridTopicKey": "9/HbOrptFuA+gviuBFyzMQSw/jMeVzDtBtdxwqcHZMc=",
+        "cosmosDBEndPointUrl": "https://cosmosdb-az203-tollbooth.documents.azure.com:443/",
+        "cosmosDBAuthorizationKey": "BWFV0kcXnOPizH3sK0VLr0GpkvmdP06FX8Imn88XfJX8BJQsZ9OiFhRUW5LT4G7obGy3Y4gYfaFllcw6tKsYJA==",
+        "cosmosDBDatabaseId": "LicensePlates",
+        "cosmosDBCollectionId": "Processed",
+        "exportCsvContainerName": "export",
+        "blobStorageConnection": "DefaultEndpointsProtocol=https;AccountName=straz203tollbooth;AccountKey=MFq9uRSYSs4KflSmJD0PHXOqweUds653OlsBfP02n0TPje3jA1oeTj/IJ47UqaWD8sY4+Zaxl3Q5jolHyTLk+A==;EndpointSuffix=core.windows.net"
+    }
 }
